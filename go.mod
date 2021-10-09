@@ -1,4 +1,4 @@
-module github.com/NiranjaNinja/mongo-golang
+module github.com/Hemendiran007/mongo-golang
 
 go 1.17
 
