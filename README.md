@@ -12,3 +12,5 @@
 ###### 3.) Creating a Post - a POST request - uses JSON request body - uses a URL ‘/posts'
 ###### 4.) Getting a Post using id - a GET request - uses JSON request body - uses a URL ‘/posts/{id}'
 ###### 5.) Getting Posts of all users - a GET request - uses a URL ‘/posts/users'
+
+## Run this code by tpying "go run main.go" in your terminal, after connecting your mongoDB to your Go and then test your API with postman tool by giving appropriate request and URL to see the Output !!  :)
