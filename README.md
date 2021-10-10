@@ -10,5 +10,5 @@
 ###### 1.) User Creation - a POST request - uses JSON request body - uses a URL  ‘/users'
 ###### 2.) Get a User using id - a GET request - ID should be in the URL parameter - uses a URL ‘/users/{id}’
 ###### 3.) Creating a Post - a POST request - uses JSON request body - uses a URL ‘/posts'
-###### 3.) Getting a Post using id - a POST request - uses JSON request body - uses a URL ‘/posts/{id}'
-###### 4.) Getting Posts of all users - a GET request - uses a URL ‘/posts/users'
+###### 4.) Getting a Post using id - a GET request - uses JSON request body - uses a URL ‘/posts/{id}'
+###### 5.) Getting Posts of all users - a GET request - uses a URL ‘/posts/users'
